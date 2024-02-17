@@ -11,5 +11,9 @@ public class SolarSystem {
         xros.size="2434126";
         xros.Color="pink";
         xros.temp="dsfasdfa";
+        planet2 dsfs=new planet2();
+        dsfs.Color="white";
+        dsfs.temp="554788";
+        dsfs.size="dsfdsf";
     }
 }
